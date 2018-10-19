@@ -1,0 +1,13 @@
+GREETING/Hi
+GREETING/How are you doing?
+GREETING/have a nice day
+GREETING/good morning.
+schedule_list/What time is my next session?
+schedule_list/When is my next session?
+schedule_list/What time is my next meeting?
+schedule_list/Can you please show me my schedule?
+schedule_list/Show me my schedule.
+where_is/Where is narkel bagan
+where_is/show me the way to sasta sundar
+where_is/where is the staircase
+where_is/give me the direction to the parking lot
